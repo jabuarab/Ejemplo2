@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2305cd76-d3c0-4800-8506-74467714346e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListUni.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="method#contiene#0;class#LinkedListUni#0" />
+                <element signature="method#addFirst#0;class#LinkedListUni#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/Nodo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/LinkedListUniTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="80" selection-start-line="80" selection-end-line="93" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tNodo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Usuario\IdeaProjects\Practico 1\uy\edu\um\prog2\tad\linkedlist</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/test/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/MyList.java" />
+        <option value="$PROJECT_DIR$/src/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/um/LinkedList.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/um/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/LinkedList.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/Nodos.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/test/LinkedListUniTest.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/ValueAintExistExeption.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/Nodo.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/MyStack.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/Exeptions/EmptyStackException.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/linkedStack/MyStack.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/MyList.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListDoble.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/CiruclarLinkedBiList.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/linkedStack/Nodo.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog1/LinkedListUniTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog1/tad/LinkedListUniTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog1/tad/likedlist/LinkedListUniTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/NodoTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/Stack/linkedStack/NodoTest.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/linkedStack/MyStackEnlazada.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Stack/arrayStack/MyStackArray.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/Stack/arrayStack/MyStackArrayTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/Stack/linkedStack/MyStackEnlazadaTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/LinkedListDobleTest.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/MyTree.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/CiruclarLinkedBiListTest.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/Node.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/Tree.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/Nodo.java" />
+        <option value="$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListUni.java" />
+        <option value="$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/LinkedListUniTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="196" />
+    <option name="y" value="-15" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+              <item name="tad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practico 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practico 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="prog2" type="462c0819:PsiDirectoryNode" />
+              <item name="tad" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556581487371" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.um.prog2.Stack.arrayStack" />
+      <recent name="edu.um.prog2.Stack.linkedStack" />
+      <recent name="edu.um.prog2.tad.linkedlist" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.um.prog2.tad.linkedlist" />
+      <recent name="edu.um.prog1" />
+      <recent name="edu.um.prog2" />
+      <recent name="edu.um.prog2.tad.Exeptions" />
+      <recent name="edu.um.prog2.tad" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListUniTest.testobtener">
+    <configuration name="LinkedListDobleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListDobleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUniTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListUniTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUniTest.testagregar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListUniTest" />
+      <option name="METHOD_NAME" value="testagregar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUniTest.testborrar1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListUniTest" />
+      <option name="METHOD_NAME" value="testborrar1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUniTest.testcontiene" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListUniTest" />
+      <option name="METHOD_NAME" value="testcontiene" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUniTest.testobtener" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="edu.um.prog2.tad.linkedlist.LinkedListUniTest" />
+      <option name="METHOD_NAME" value="testobtener" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.um.prog2.tad.linkedlist in Practico 1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Practico 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.um.prog2.tad.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.um.prog2.tad.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListUniTest.testobtener" />
+        <item itemvalue="JUnit.LinkedListUniTest.testborrar1" />
+        <item itemvalue="JUnit.LinkedListUniTest.testcontiene" />
+        <item itemvalue="JUnit.LinkedListUniTest.testagregar" />
+        <item itemvalue="JUnit.LinkedListDobleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2305cd76-d3c0-4800-8506-74467714346e" name="Default Changelist" comment="" />
+      <created>1553172895983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553172895983</updated>
+      <workItem from="1553172899648" duration="11368000" />
+      <workItem from="1553725435870" duration="2219000" />
+      <workItem from="1553771952635" duration="21423000" />
+      <workItem from="1554291945222" duration="13789000" />
+      <workItem from="1554381311527" duration="45000" />
+      <workItem from="1554415085619" duration="4879000" />
+      <workItem from="1554649497636" duration="5502000" />
+      <workItem from="1554665203346" duration="17246000" />
+      <workItem from="1554899554270" duration="10208000" />
+      <workItem from="1555436067758" duration="589000" />
+      <workItem from="1555710974377" duration="3116000" />
+      <workItem from="1555716702514" duration="255000" />
+      <workItem from="1555717068860" duration="1614000" />
+      <workItem from="1555905500688" duration="7970000" />
+      <workItem from="1556113404142" duration="6162000" />
+      <workItem from="1556191932977" duration="9513000" />
+      <workItem from="1556407651830" duration="5434000" />
+      <workItem from="1556473079136" duration="681000" />
+      <workItem from="1556476586896" duration="812000" />
+      <workItem from="1556549909411" duration="2624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LinkedListUniTest_testcontiene - 2019.04.25 at 19h 46m 28s.xml">
+      <configuration name="LinkedListUniTest.testcontiene" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testcontiene - 2019.04.25 at 19h 49m 38s.xml">
+      <configuration name="LinkedListUniTest.testcontiene" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testborrar1 - 2019.04.25 at 19h 55m 09s.xml">
+      <configuration name="LinkedListUniTest.testborrar1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testborrar1 - 2019.04.25 at 19h 57m 20s.xml">
+      <configuration name="LinkedListUniTest.testborrar1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.25 at 20h 09m 01s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.25 at 20h 09m 22s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.25 at 20h 10m 21s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.27 at 21h 14m 14s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.29 at 11h 59m 51s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUniTest_testobtener - 2019.04.29 at 13h 15m 53s.xml">
+      <configuration name="LinkedListUniTest.testobtener" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125449000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.020134227" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12751678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.020134227" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListUni.java</url>
+          <line>14</line>
+          <properties class="edu.um.prog2.tad.linkedlist.LinkedListUni" method="agregar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/Exeptions/ValueAintExistExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/NodoTest.java" />
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Stack/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/Stack/linkedStack/NodoTest.java" />
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Stack/linkedStack/Nodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListDoble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <folding>
+            <element signature="method#borrar#0;class#LinkedListDoble#0" />
+            <element signature="method#borrar#1;class#LinkedListDoble#0" />
+            <element signature="method#obtener#0;class#LinkedListDoble#0" />
+            <element signature="method#contiene#0;class#LinkedListDoble#0" />
+            <element signature="e#3045#3046#0" expanded="true" />
+            <element signature="e#3074#3075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Stack/arrayStack/MyStackArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/CiruclarLinkedBiList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="method#CiruclarLinkedBiList#0;class#CiruclarLinkedBiList#0" />
+            <element signature="method#borrar#0;class#CiruclarLinkedBiList#0" />
+            <element signature="method#obtener#0;class#CiruclarLinkedBiList#0" />
+            <element signature="e#3497#3498#0" expanded="true" />
+            <element signature="e#3526#3527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Stack/linkedStack/MyStackEnlazada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#top#0;class#MyStackEnlazada#0" />
+            <element signature="method#push#0;class#MyStackEnlazada#0" />
+            <element signature="e#1355#1356#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Stack/Exeptions/EmptyStackException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/CiruclarLinkedBiListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/LinkedListDobleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Arbol/vsdg.java" />
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/MyTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/Stack/linkedStack/MyStackEnlazadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/Stack/arrayStack/MyStackArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1468" lean-forward="true" selection-start-line="24" selection-end-line="1468" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/Arbol/Mytree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/Nodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uy/edu/um/prog2/tad/linkedlist/LinkedListUni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="method#contiene#0;class#LinkedListUni#0" />
+            <element signature="method#addFirst#0;class#LinkedListUni#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.0-M1/junit-platform-commons-1.5.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4352">
+          <caret line="256" column="1" lean-forward="true" selection-start-line="256" selection-start-column="1" selection-end-line="256" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#17379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/um/prog2/tad/linkedlist/LinkedListUniTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="80" selection-start-line="80" selection-end-line="93" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Practico 1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

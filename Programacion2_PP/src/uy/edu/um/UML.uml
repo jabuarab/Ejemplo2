@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="8.000000000000057" y="322.0">uy.edu.um.SeguridadEstadoMgr</node>
+    <node x="268.0" y="66.5">uy.edu.um.SeguridadEstadioMgt</node>
+    <node x="0.0" y="0.0">uy.edu.um.Persona</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="uy.edu.um.SeguridadEstadoMgr" target="uy.edu.um.SeguridadEstadioMgt">
+      <point x="117.59999999999997" y="-103.0" />
+      <point x="272.6" y="297.0" />
+      <point x="415.0" y="297.0" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="uy.edu.um.SeguridadEstadoMgr" target="uy.edu.um.Persona">
+      <point x="-58.800000000000125" y="-103.0" />
+      <point x="96.19999999999993" y="297.0" />
+      <point x="93.0" y="297.0" />
+      <point x="-31.0" y="136.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="52.0" y="234.5" />
+  <SelectedNodes>
+    <node>uy.edu.um.SeguridadEstadoMgr</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
